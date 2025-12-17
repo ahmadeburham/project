@@ -34,12 +34,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown('<div class="center-header">Time-Series Prediction Project</div>', unsafe_allow_html=True)
-st.write('<p style="font-size:120%;color:orange;font-weight: bold">Team Members:</p>', unsafe_allow_html=True)
-st.write('<p style="font-size:100%;font-weight: bold;color:#b233ff">1. Khaled Abd Elhanan Saad</p>', unsafe_allow_html=True)
-st.write('<p style="font-size:100%;font-weight: bold;color:#ff6633">2. Mohammed Adel Emarah</p>', unsafe_allow_html=True)
-st.write('<p style="font-size:100%;font-weight: bold;color:#33ff9c">3. Omar Ahmed Mohemed Aytta</p>', unsafe_allow_html=True)
-st.write('<p style="font-size:100%;font-weight: bold;color:#33ffdc">4. Mohamed Momen Zidann</p>', unsafe_allow_html=True)
-st.write('<p style="font-size:100%;font-weight: bold;color:#33ff41">5. Omar Samy Marey</p>', unsafe_allow_html=True)
+
 
 st.markdown("---")
 st.write('<p style="font-size:130%;color:orange;font-weight: bold">Project Overview</p>', unsafe_allow_html=True)
